@@ -1,0 +1,6 @@
+E:\HW\Ping\Ping\Ping\bin\Debug\Ping.exe.config
+E:\HW\Ping\Ping\Ping\bin\Debug\Ping.exe
+E:\HW\Ping\Ping\Ping\bin\Debug\Ping.pdb
+E:\HW\Ping\Ping\Ping\obj\Debug\Ping.csprojResolveAssemblyReference.cache
+E:\HW\Ping\Ping\Ping\obj\Debug\Ping.exe
+E:\HW\Ping\Ping\Ping\obj\Debug\Ping.pdb

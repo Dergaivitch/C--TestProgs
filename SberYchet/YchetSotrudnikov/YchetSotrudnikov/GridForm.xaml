@@ -1,0 +1,57 @@
+<<<<<<< HEAD
+﻿<Window x:Class="YchetSotrudnikov.GridForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YchetSotrudnikov"
+        mc:Ignorable="d"
+        Title="GridForm" Height="300" Width="300">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True"
+                  Height="auto"  
+                  Name="dataGrid1"
+                  VerticalAlignment="Top" Width="auto"
+                  ItemsSource="{Binding }"
+                  MouseRightButtonUp="dataGrid1_MouseRightButtonUp"/>
+        <Button x:Name="ConfirmButton"
+                        Width="100"
+                        Height="45"
+                        Grid.Row="3"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Content="ConfirmChanges"
+                        Background="GreenYellow"
+                Click="SubmitButton_Click"/>
+
+    </Grid>
+</Window>
+=======
+﻿<Window x:Class="YchetSotrudnikov.GridForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YchetSotrudnikov"
+        mc:Ignorable="d"
+        Title="GridForm" Height="300" Width="300">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True"
+                  Height="auto"  
+                  Name="dataGrid1"
+                  VerticalAlignment="Top" Width="auto"
+                  ItemsSource="{Binding }"
+                  MouseRightButtonUp="data1_MouseDoubleClick"/>
+        <Button x:Name="ConfirmButton"
+                        Width="100"
+                        Height="45"
+                        Grid.Row="3"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Content="ConfirmChanges"
+                        Background="GreenYellow"
+                Click="SubmitButton_Click"/>
+
+    </Grid>
+</Window>
+>>>>>>> origin/master

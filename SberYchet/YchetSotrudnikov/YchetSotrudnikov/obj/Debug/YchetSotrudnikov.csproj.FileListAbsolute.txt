@@ -1,0 +1,70 @@
+<<<<<<< HEAD
+c:\users\dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\YchetSotrudnikov.exe.config
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\YchetSotrudnikov.exe
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\YchetSotrudnikov.pdb
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.csprojResolveAssemblyReference.cache
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\MainWindow.g.cs
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\App.g.cs
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov_MarkupCompile.cache
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov_MarkupCompile.lref
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\MainWindow.baml
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.g.resources
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.Properties.Resources.resources
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.csproj.GenerateResource.Cache
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.exe
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.pdb
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\MySql.Data.dll
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\GridForm.g.cs
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\GridForm.baml
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UserForm.g.cs
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UserForm.baml
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UtilWindow.g.cs
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UtilWindow.baml
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\YchetSotrudnikov.exe.config
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.exe
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.pdb
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\YchetSotrudnikov.exe
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\MySql.Data.dll
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.csprojResolveAssemblyReference.cache
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\GridForm.g.cs
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\MainWindow.g.cs
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UserForm.g.cs
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UtilWindow.g.cs
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\App.g.cs
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov_MarkupCompile.cache
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov_MarkupCompile.lref
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\GridForm.baml
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\MainWindow.baml
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UserForm.baml
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UtilWindow.baml
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.g.resources
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.Properties.Resources.resources
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.csproj.GenerateResource.Cache
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\YchetSotrudnikov.pdb
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\AuthWindow.g.cs
+=======
+c:\users\dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\YchetSotrudnikov.exe.config
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\YchetSotrudnikov.exe
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\YchetSotrudnikov.pdb
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.csprojResolveAssemblyReference.cache
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\MainWindow.g.cs
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\App.g.cs
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov_MarkupCompile.cache
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov_MarkupCompile.lref
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\MainWindow.baml
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.g.resources
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.Properties.Resources.resources
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.csproj.GenerateResource.Cache
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.exe
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.pdb
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\MySql.Data.dll
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\GridForm.g.cs
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\GridForm.baml
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UserForm.g.cs
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UserForm.baml
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UtilWindow.g.cs
+C:\Users\Dergai\documents\visual studio 2015\Projects\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\UtilWindow.baml
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\bin\Debug\YchetSotrudnikov.exe.config
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.exe
+E:\HW\SberY\YchetSotrudnikov\YchetSotrudnikov\obj\Debug\YchetSotrudnikov.pdb
+>>>>>>> origin/master
